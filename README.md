@@ -4,4 +4,5 @@
 ## 2018 11 08 737a CST MV: 
 ADDED line to readme.md in order to test/confirm working commit/push from local repo to cloud repo... 
 
-
+## 2018 11 08 754a CST MV: 
+SCAFFOLDED (successfully) an entire Angular7 web app project using AngularCLI command >ng new AngularCLI01 ... 
